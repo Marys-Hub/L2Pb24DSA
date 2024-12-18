@@ -1,0 +1,3 @@
+/Users/mary/CLionProjects/L2Pb24DSA/cmake-build-debug/CMakeFiles/L2Pb24DSA.dir
+/Users/mary/CLionProjects/L2Pb24DSA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mary/CLionProjects/L2Pb24DSA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
